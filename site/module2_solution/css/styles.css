@@ -38,17 +38,16 @@ h3 {
 }
 
 .section p {
-  margin-top: 18px;
+  margin-top: 20px;
   text-align: justify;
   font-size: 100%;
 }
 
 .section-title-region {
   position: absolute;
-  top:0;
+  top:0px;
   right: 0px;
-  background: green; 
-  padding: 6px 90px;
+  padding: 5px 100px;
   border-left: 1px solid black;
   border-bottom: 1px solid black;
 }
